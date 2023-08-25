@@ -1,0 +1,24 @@
+C:\Users\Guille\source\repos\Practico3\Practico3\bin\Debug\Practico3.exe.config
+C:\Users\Guille\source\repos\Practico3\Practico3\bin\Debug\Practico3.exe
+C:\Users\Guille\source\repos\Practico3\Practico3\bin\Debug\Practico3.pdb
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.csproj.AssemblyReference.cache
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.PequeñoFormulario.resources
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.Properties.Resources.resources
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.csproj.GenerateResource.cache
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.exe
+C:\Users\Guille\source\repos\Practico3\Practico3\obj\Debug\Practico3.pdb
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.csproj.AssemblyReference.cache
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.PequeñoFormulario.resources
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.Properties.Resources.resources
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.csproj.GenerateResource.cache
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\bin\Debug\pho.exe.config
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\bin\Debug\pho.exe
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\bin\Debug\pho.pdb
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.MDIParent1.resources
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\pho.exe
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\pho.pdb
+C:\Users\Guille\source\repos\Pequeño Formulario\Practico3\Practico3\obj\Debug\Practico3.MDIParent2.resources
