@@ -1,0 +1,11 @@
+C:\Users\Guille\source\repos\practico4\practico4\bin\Debug\practico4.exe.config
+C:\Users\Guille\source\repos\practico4\practico4\bin\Debug\practico4.exe
+C:\Users\Guille\source\repos\practico4\practico4\bin\Debug\practico4.pdb
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.csproj.AssemblyReference.cache
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.practico4.resources
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.Properties.Resources.resources
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.csproj.GenerateResource.cache
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.exe
+C:\Users\Guille\source\repos\practico4\practico4\obj\Debug\practico4.pdb
