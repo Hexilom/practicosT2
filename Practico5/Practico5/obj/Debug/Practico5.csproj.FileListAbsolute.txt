@@ -1,0 +1,11 @@
+C:\Users\Guille\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+C:\Users\Guille\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe
+C:\Users\Guille\source\repos\Practico5\Practico5\bin\Debug\Practico5.pdb
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.AssemblyReference.cache
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.Properties.Resources.resources
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.GenerateResource.cache
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.exe
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.pdb
+C:\Users\Guille\source\repos\Practico5\Practico5\obj\Debug\Practico5.practico5.resources
